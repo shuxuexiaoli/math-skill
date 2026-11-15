@@ -1,6 +1,8 @@
-# shuxueppt — 中文数学教学 PPT 生成与检修技能
+# math-skill — 中文数学教学 PPT 生成与检修技能（数学技能仓库）
 
 ![Python](https://img.shields.io/badge/Python-3-3776AB) ![PPTX](https://img.shields.io/badge/PPTX-OMML-D24726) ![PowerPoint](https://img.shields.io/badge/PowerPoint-兼容-B7472A) ![WPS](https://img.shields.io/badge/WPS-兼容-FF5722)
+
+> 本仓库由一名职业院校数学教师维护。同一套技能的早期仓库见 [shuxueppt](https://github.com/woshidashen804/shuxueppt)。
 
 面向中文数学课件（导数、极限、积分等）的生产与检修技能，覆盖两种任务：**从教案 / 练习册批量生产数学课件**，以及**对既有课件做质量检查与修复**。它既是一份给 AI 助手用的技能说明（`SKILL.md`），也是一套可直接跑的纯 Python 检查与修复脚本。
 
